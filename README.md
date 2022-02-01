@@ -8,4 +8,4 @@ Players can choose between singleplayer and multiplayer, but we also offer a new
 
 We hope you enjoy, and have a bogglin' good time!
 
-[Demo] (https://www.youtube.com/watch?v=VZ8jEPalEM8)
+Check out the [Demo](https://www.youtube.com/watch?v=VZ8jEPalEM8)!
